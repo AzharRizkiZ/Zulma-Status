@@ -5,12 +5,12 @@ repo: Zulma-Status # The name of this repository
 sites:
   - name: Zulma Landing Page
     url: https://zulma.id
-  - name: Zulma Profile
+  - name: Zulma English
     url: https://en.zulma.id
-  #- name: Zulma Indonesia
-  #  url: https://id.zulma.id
-  #- name: Zulma Japan
-  #  url: https://jp.zulma.id
+  - name: Zulma Indonesia
+    url: https://id.zulma.id
+  - name: Zulma Japan
+    url: https://jp.zulma.id
   - name: Zulma Blog
     url: https://blog.zulma.id
   - name: Al-Jazari Personal Virtual Assistant

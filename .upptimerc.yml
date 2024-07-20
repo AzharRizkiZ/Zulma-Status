@@ -31,7 +31,7 @@ status-website:
   cname: status.zulma.id
   # baseUrl: /your-repo-name
   logoUrl: https://id.zulma.id/assets/images/AZ.png
-  name: Mineversal Website Status
+  name: Zulma Website Status
   introTitle: "**Zulma Website** is Azhar Rizki Zulma personal website."
   introMessage: This is a status page which uses **real-time** data from our [Zulma Status](https://github.com/AzharRizkiZ/Zulma-Status). No server required — just GitHub Actions, Issues, and Pages.
   navbar:

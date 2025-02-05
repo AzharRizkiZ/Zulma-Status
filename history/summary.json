@@ -16,7 +16,7 @@
     "timeMonth": 126,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-02-05": 1268,
+      "2025-02-05": 1277,
       "2025-02-04": 1243,
       "2025-02-03": 1274,
       "2025-02-02": 1260,
@@ -317,7 +317,7 @@
     "slug": "zulma-english",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "30.08%",
+    "uptimeDay": "29.48%",
     "uptimeWeek": "14.49%",
     "uptimeMonth": "2.05%",
     "uptimeYear": "0.00%",
@@ -327,7 +327,7 @@
     "timeMonth": 131,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2025-02-05": 1004,
+      "2025-02-05": 1013,
       "2025-02-04": 1185,
       "2025-02-03": 1247,
       "2025-02-02": 1347,
@@ -626,16 +626,16 @@
     "url": "https://id.zulma.id",
     "icon": "https://icons.duckduckgo.com/ip3/id.zulma.id.ico",
     "slug": "zulma-indonesia",
-    "status": "up",
-    "uptime": "94.10%",
-    "uptimeDay": "13.49%",
-    "uptimeWeek": "15.84%",
-    "uptimeMonth": "44.71%",
-    "uptimeYear": "94.10%",
+    "status": "down",
+    "uptime": "94.11%",
+    "uptimeDay": "13.65%",
+    "uptimeWeek": "15.92%",
+    "uptimeMonth": "44.85%",
+    "uptimeYear": "94.11%",
     "time": 117,
-    "timeDay": 175,
-    "timeWeek": 133,
-    "timeMonth": 128,
+    "timeDay": 172,
+    "timeWeek": 132,
+    "timeMonth": 127,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2025-02-05": 1220,
@@ -656,7 +656,7 @@
       "2025-01-21": 1403,
       "2025-01-20": 1424,
       "2025-01-19": 1358,
-      "2025-01-18": 187
+      "2025-01-18": 126
     }
   },
   {
@@ -676,7 +676,7 @@
     "timeMonth": 125,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2025-02-05": 1237,
+      "2025-02-05": 1246,
       "2025-02-04": 1343,
       "2025-02-03": 1075,
       "2025-02-02": 1216,
@@ -987,7 +987,7 @@
     "timeMonth": 107,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2025-02-05": 1121,
+      "2025-02-05": 1129,
       "2025-02-04": 1199,
       "2025-02-03": 1305,
       "2025-02-02": 1272,
@@ -1298,7 +1298,7 @@
     "timeMonth": 121,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2025-02-05": 1241,
+      "2025-02-05": 1249,
       "2025-02-04": 1269,
       "2025-02-03": 1152,
       "2025-02-02": 1173,

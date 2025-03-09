@@ -4,12 +4,12 @@
     "url": "https://zulma.id",
     "icon": "https://icons.duckduckgo.com/ip3/zulma.id.ico",
     "slug": "zulma-landing-page",
-    "status": "up",
-    "uptime": "98.51%",
-    "uptimeDay": "34.23%",
-    "uptimeWeek": "31.39%",
-    "uptimeMonth": "84.21%",
-    "uptimeYear": "98.51%",
+    "status": "down",
+    "uptime": "98.52%",
+    "uptimeDay": "34.78%",
+    "uptimeWeek": "31.90%",
+    "uptimeMonth": "84.33%",
+    "uptimeYear": "98.52%",
     "time": 121,
     "timeDay": 119,
     "timeWeek": 124,
@@ -23,7 +23,7 @@
       "2025-03-05": 954,
       "2025-03-04": 937,
       "2025-03-03": 1153,
-      "2025-03-02": 260
+      "2025-03-02": 208
     }
   },
   {
@@ -31,12 +31,12 @@
     "url": "https://en.zulma.id",
     "icon": "https://icons.duckduckgo.com/ip3/en.zulma.id.ico",
     "slug": "zulma-english",
-    "status": "up",
-    "uptime": "98.57%",
-    "uptimeDay": "27.44%",
-    "uptimeWeek": "35.47%",
-    "uptimeMonth": "85.15%",
-    "uptimeYear": "98.57%",
+    "status": "down",
+    "uptime": "98.58%",
+    "uptimeDay": "27.98%",
+    "uptimeWeek": "35.66%",
+    "uptimeMonth": "85.19%",
+    "uptimeYear": "98.58%",
     "time": 133,
     "timeDay": 129,
     "timeWeek": 140,
@@ -50,7 +50,7 @@
       "2025-03-05": 862,
       "2025-03-04": 1171,
       "2025-03-03": 810,
-      "2025-03-02": 44
+      "2025-03-02": 25
     }
   },
   {
@@ -61,8 +61,8 @@
     "status": "down",
     "uptime": "98.73%",
     "uptimeDay": "26.48%",
-    "uptimeWeek": "42.47%",
-    "uptimeMonth": "86.76%",
+    "uptimeWeek": "42.39%",
+    "uptimeMonth": "86.74%",
     "uptimeYear": "98.73%",
     "time": 124,
     "timeDay": 120,
@@ -70,7 +70,7 @@
     "timeMonth": 132,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2025-03-09": 391,
+      "2025-03-09": 399,
       "2025-03-08": 999,
       "2025-03-07": 799,
       "2025-03-06": 1140,
@@ -84,14 +84,14 @@
     "url": "https://jp.zulma.id",
     "icon": "https://icons.duckduckgo.com/ip3/jp.zulma.id.ico",
     "slug": "zulma-japan",
-    "status": "up",
-    "uptime": "98.71%",
-    "uptimeDay": "24.65%",
-    "uptimeWeek": "41.91%",
-    "uptimeMonth": "86.63%",
-    "uptimeYear": "98.71%",
+    "status": "down",
+    "uptime": "98.74%",
+    "uptimeDay": "24.62%",
+    "uptimeWeek": "43.18%",
+    "uptimeMonth": "86.93%",
+    "uptimeYear": "98.74%",
     "time": 119,
-    "timeDay": 123,
+    "timeDay": 121,
     "timeWeek": 139,
     "timeMonth": 131,
     "timeYear": 119,
@@ -102,7 +102,7 @@
       "2025-03-06": 986,
       "2025-03-05": 991,
       "2025-03-04": 884,
-      "2025-03-03": 554
+      "2025-03-03": 426
     }
   },
   {
@@ -112,13 +112,13 @@
     "slug": "zulma-blog",
     "status": "up",
     "uptime": "98.66%",
-    "uptimeDay": "32.16%",
+    "uptimeDay": "32.72%",
     "uptimeWeek": "38.25%",
     "uptimeMonth": "85.79%",
     "uptimeYear": "98.66%",
     "time": 111,
     "timeDay": 109,
-    "timeWeek": 122,
+    "timeWeek": 121,
     "timeMonth": 115,
     "timeYear": 111,
     "dailyMinutesDown": {
@@ -136,14 +136,14 @@
     "url": "https://al-jazari.zulma.id",
     "icon": "https://icons.duckduckgo.com/ip3/al-jazari.zulma.id.ico",
     "slug": "al-jazari-personal-virtual-assistant",
-    "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "29.65%",
-    "uptimeWeek": "43.70%",
-    "uptimeMonth": "87.04%",
-    "uptimeYear": "98.78%",
+    "status": "down",
+    "uptime": "98.82%",
+    "uptimeDay": "30.14%",
+    "uptimeWeek": "45.71%",
+    "uptimeMonth": "87.51%",
+    "uptimeYear": "98.82%",
     "time": 109,
-    "timeDay": 92,
+    "timeDay": 93,
     "timeWeek": 107,
     "timeMonth": 112,
     "timeYear": 109,
@@ -154,7 +154,7 @@
       "2025-03-06": 906,
       "2025-03-05": 1082,
       "2025-03-04": 1020,
-      "2025-03-03": 434
+      "2025-03-03": 231
     }
   }
 ]

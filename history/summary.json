@@ -4,15 +4,15 @@
     "url": "https://zulma.id",
     "icon": "https://icons.duckduckgo.com/ip3/zulma.id.ico",
     "slug": "zulma-landing-page",
-    "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "87.46%",
-    "uptimeWeek": "60.57%",
-    "uptimeMonth": "90.93%",
-    "uptimeYear": "99.21%",
+    "status": "down",
+    "uptime": "99.23%",
+    "uptimeDay": "87.45%",
+    "uptimeWeek": "61.84%",
+    "uptimeMonth": "91.22%",
+    "uptimeYear": "99.23%",
     "time": 127,
-    "timeDay": 136,
-    "timeWeek": 138,
+    "timeDay": 163,
+    "timeWeek": 140,
     "timeMonth": 132,
     "timeYear": 127,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2025-03-30": 634,
       "2025-03-29": 782,
       "2025-03-28": 681,
-      "2025-03-27": 657
+      "2025-03-27": 530
     }
   },
   {
@@ -37,8 +37,8 @@
     "uptimeMonth": "91.14%",
     "uptimeYear": "99.21%",
     "time": 136,
-    "timeDay": 153,
-    "timeWeek": 137,
+    "timeDay": 151,
+    "timeWeek": 136,
     "timeMonth": 141,
     "timeYear": 136,
     "dailyMinutesDown": {
@@ -56,15 +56,15 @@
     "url": "https://id.zulma.id",
     "icon": "https://icons.duckduckgo.com/ip3/id.zulma.id.ico",
     "slug": "zulma-indonesia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "90.42%",
-    "uptimeWeek": "63.38%",
-    "uptimeMonth": "91.57%",
+    "uptimeDay": "90.40%",
+    "uptimeWeek": "63.58%",
+    "uptimeMonth": "91.62%",
     "uptimeYear": "99.25%",
     "time": 127,
-    "timeDay": 131,
-    "timeWeek": 130,
+    "timeDay": 134,
+    "timeWeek": 129,
     "timeMonth": 132,
     "timeYear": 127,
     "dailyMinutesDown": {
@@ -74,7 +74,7 @@
       "2025-03-30": 714,
       "2025-03-29": 663,
       "2025-03-28": 501,
-      "2025-03-27": 632
+      "2025-03-27": 612
     }
   },
   {
@@ -117,7 +117,7 @@
     "status": "up",
     "uptime": "97.86%",
     "uptimeDay": "94.10%",
-    "uptimeWeek": "63.30%",
+    "uptimeWeek": "63.38%",
     "uptimeMonth": "75.50%",
     "uptimeYear": "97.86%",
     "time": 116,

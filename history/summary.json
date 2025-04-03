@@ -11,7 +11,7 @@
     "uptimeMonth": "91.20%",
     "uptimeYear": "99.23%",
     "time": 128,
-    "timeDay": 204,
+    "timeDay": 206,
     "timeWeek": 142,
     "timeMonth": 134,
     "timeYear": 128,
@@ -56,25 +56,26 @@
     "url": "https://id.zulma.id",
     "icon": "https://icons.duckduckgo.com/ip3/id.zulma.id.ico",
     "slug": "zulma-indonesia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "94.84%",
-    "uptimeWeek": "63.38%",
-    "uptimeMonth": "91.57%",
+    "uptimeDay": "94.82%",
+    "uptimeWeek": "63.58%",
+    "uptimeMonth": "91.62%",
     "uptimeYear": "99.25%",
     "time": 127,
-    "timeDay": 126,
+    "timeDay": 130,
     "timeWeek": 128,
     "timeMonth": 133,
     "timeYear": 127,
     "dailyMinutesDown": {
+      "2025-04-03": 0,
       "2025-04-02": 75,
       "2025-04-01": 434,
       "2025-03-31": 674,
       "2025-03-30": 714,
       "2025-03-29": 663,
       "2025-03-28": 501,
-      "2025-03-27": 632
+      "2025-03-27": 612
     }
   },
   {
@@ -117,7 +118,7 @@
     "status": "up",
     "uptime": "99.02%",
     "uptimeDay": "91.44%",
-    "uptimeWeek": "64.03%",
+    "uptimeWeek": "64.79%",
     "uptimeMonth": "88.77%",
     "uptimeYear": "99.02%",
     "time": 117,
@@ -144,9 +145,9 @@
     "slug": "al-jazari-personal-virtual-assistant",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "91.90%",
-    "uptimeWeek": "65.37%",
-    "uptimeMonth": "92.03%",
+    "uptimeDay": "92.45%",
+    "uptimeWeek": "65.25%",
+    "uptimeMonth": "92.00%",
     "uptimeYear": "99.30%",
     "time": 112,
     "timeDay": 145,
@@ -154,13 +155,13 @@
     "timeMonth": 114,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-04-02": 117,
+      "2025-04-02": 109,
       "2025-04-01": 473,
       "2025-03-31": 541,
       "2025-03-30": 746,
       "2025-03-29": 635,
       "2025-03-28": 715,
-      "2025-03-27": 267
+      "2025-03-27": 287
     }
   }
 ]

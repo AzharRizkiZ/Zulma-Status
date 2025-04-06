@@ -4,15 +4,15 @@
     "url": "https://zulma.id",
     "icon": "https://icons.duckduckgo.com/ip3/zulma.id.ico",
     "slug": "zulma-landing-page",
-    "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "92.15%",
-    "uptimeWeek": "79.67%",
-    "uptimeMonth": "91.47%",
-    "uptimeYear": "99.26%",
+    "status": "down",
+    "uptime": "99.27%",
+    "uptimeDay": "92.14%",
+    "uptimeWeek": "79.82%",
+    "uptimeMonth": "91.52%",
+    "uptimeYear": "99.27%",
     "time": 129,
-    "timeDay": 166,
-    "timeWeek": 153,
+    "timeDay": 167,
+    "timeWeek": 154,
     "timeMonth": 137,
     "timeYear": 129,
     "dailyMinutesDown": {
@@ -25,7 +25,7 @@
       "2025-03-31": 565,
       "2025-03-30": 634,
       "2025-03-29": 782,
-      "2025-03-28": 578
+      "2025-03-28": 555
     }
   },
   {
@@ -36,11 +36,11 @@
     "status": "up",
     "uptime": "99.25%",
     "uptimeDay": "88.30%",
-    "uptimeWeek": "81.79%",
+    "uptimeWeek": "81.94%",
     "uptimeMonth": "91.51%",
     "uptimeYear": "99.25%",
     "time": 138,
-    "timeDay": 154,
+    "timeDay": 149,
     "timeWeek": 146,
     "timeMonth": 143,
     "timeYear": 138,
@@ -65,9 +65,9 @@
     "slug": "zulma-indonesia",
     "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "80.08%",
-    "uptimeWeek": "79.73%",
-    "uptimeMonth": "91.41%",
+    "uptimeDay": "80.63%",
+    "uptimeWeek": "79.81%",
+    "uptimeMonth": "91.38%",
     "uptimeYear": "99.24%",
     "time": 127,
     "timeDay": 154,
@@ -75,7 +75,7 @@
     "timeMonth": 130,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2025-04-06": 226,
+      "2025-04-06": 218,
       "2025-04-05": 101,
       "2025-04-04": 113,
       "2025-04-03": 213,
@@ -85,7 +85,7 @@
       "2025-03-30": 714,
       "2025-03-29": 663,
       "2025-03-28": 501,
-      "2025-03-27": 53
+      "2025-03-27": 70
     }
   },
   {
@@ -153,19 +153,19 @@
     "url": "https://al-jazari.zulma.id",
     "icon": "https://icons.duckduckgo.com/ip3/al-jazari.zulma.id.ico",
     "slug": "al-jazari-personal-virtual-assistant",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "91.05%",
-    "uptimeWeek": "81.13%",
-    "uptimeMonth": "92.44%",
-    "uptimeYear": "99.34%",
-    "time": 113,
-    "timeDay": 100,
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "91.01%",
+    "uptimeWeek": "81.28%",
+    "uptimeMonth": "92.57%",
+    "uptimeYear": "99.36%",
+    "time": 112,
+    "timeDay": 97,
     "timeWeek": 119,
     "timeMonth": 116,
-    "timeYear": 113,
+    "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-04-06": 53,
+      "2025-04-06": 54,
       "2025-04-05": 179,
       "2025-04-04": 251,
       "2025-04-03": 61,
@@ -174,7 +174,7 @@
       "2025-03-31": 541,
       "2025-03-30": 746,
       "2025-03-29": 635,
-      "2025-03-28": 273
+      "2025-03-28": 215
     }
   }
 ]

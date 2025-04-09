@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.28%",
     "uptimeDay": "94.22%",
-    "uptimeWeek": "89.36%",
+    "uptimeWeek": "89.63%",
     "uptimeMonth": "91.61%",
     "uptimeYear": "99.28%",
     "time": 130,
     "timeDay": 184,
-    "timeWeek": 166,
+    "timeWeek": 167,
     "timeMonth": 140,
     "timeYear": 130,
     "dailyMinutesDown": {
@@ -100,14 +100,14 @@
     "url": "https://jp.zulma.id",
     "icon": "https://icons.duckduckgo.com/ip3/jp.zulma.id.ico",
     "slug": "zulma-japan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "91.86%",
+    "uptimeDay": "91.83%",
     "uptimeWeek": "90.72%",
-    "uptimeMonth": "91.63%",
+    "uptimeMonth": "91.71%",
     "uptimeYear": "99.27%",
     "time": 127,
-    "timeDay": 237,
+    "timeDay": 234,
     "timeWeek": 157,
     "timeMonth": 136,
     "timeYear": 127,
@@ -124,7 +124,7 @@
       "2025-03-31": 642,
       "2025-03-30": 659,
       "2025-03-29": 700,
-      "2025-03-28": 151
+      "2025-03-28": 114
     }
   },
   {
@@ -134,9 +134,9 @@
     "slug": "zulma-blog",
     "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "87.86%",
-    "uptimeWeek": "92.75%",
-    "uptimeMonth": "92.68%",
+    "uptimeDay": "85.84%",
+    "uptimeWeek": "92.46%",
+    "uptimeMonth": "92.61%",
     "uptimeYear": "99.37%",
     "time": 117,
     "timeDay": 134,
@@ -144,7 +144,7 @@
     "timeMonth": 125,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-04-09": 77,
+      "2025-04-09": 106,
       "2025-04-08": 152,
       "2025-04-07": 142,
       "2025-04-06": 97,
@@ -165,18 +165,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/al-jazari.zulma.id.ico",
     "slug": "al-jazari-personal-virtual-assistant",
     "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "92.72%",
-    "uptimeWeek": "90.88%",
-    "uptimeMonth": "93.09%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.39%",
+    "uptimeDay": "93.27%",
+    "uptimeWeek": "90.95%",
+    "uptimeMonth": "92.94%",
+    "uptimeYear": "99.39%",
     "time": 113,
     "timeDay": 106,
     "timeWeek": 122,
     "timeMonth": 117,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-04-09": 28,
+      "2025-04-09": 20,
       "2025-04-08": 128,
       "2025-04-07": 115,
       "2025-04-06": 89,
@@ -187,7 +187,7 @@
       "2025-04-01": 473,
       "2025-03-31": 541,
       "2025-03-30": 746,
-      "2025-03-29": 314
+      "2025-03-29": 386
     }
   }
 ]

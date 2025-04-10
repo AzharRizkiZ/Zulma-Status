@@ -4,11 +4,11 @@
     "url": "https://zulma.id",
     "icon": "https://icons.duckduckgo.com/ip3/zulma.id.ico",
     "slug": "zulma-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "94.28%",
-    "uptimeWeek": "90.40%",
-    "uptimeMonth": "91.62%",
+    "uptimeDay": "94.27%",
+    "uptimeWeek": "90.80%",
+    "uptimeMonth": "91.66%",
     "uptimeYear": "99.28%",
     "time": 130,
     "timeDay": 156,
@@ -16,6 +16,7 @@
     "timeMonth": 141,
     "timeYear": 130,
     "dailyMinutesDown": {
+      "2025-04-10": 0,
       "2025-04-09": 82,
       "2025-04-08": 184,
       "2025-04-07": 179,
@@ -28,7 +29,7 @@
       "2025-03-31": 565,
       "2025-03-30": 634,
       "2025-03-29": 782,
-      "2025-03-28": 22
+      "2025-03-28": 4
     }
   },
   {
@@ -39,12 +40,12 @@
     "status": "up",
     "uptime": "99.26%",
     "uptimeDay": "92.41%",
-    "uptimeWeek": "93.15%",
+    "uptimeWeek": "93.41%",
     "uptimeMonth": "91.56%",
     "uptimeYear": "99.26%",
     "time": 139,
     "timeDay": 172,
-    "timeWeek": 169,
+    "timeWeek": 168,
     "timeMonth": 147,
     "timeYear": 139,
     "dailyMinutesDown": {
@@ -72,7 +73,7 @@
     "status": "up",
     "uptime": "99.28%",
     "uptimeDay": "92.98%",
-    "uptimeWeek": "90.33%",
+    "uptimeWeek": "90.99%",
     "uptimeMonth": "91.73%",
     "uptimeYear": "99.28%",
     "time": 127,
@@ -132,19 +133,19 @@
     "url": "https://blog.zulma.id",
     "icon": "https://icons.duckduckgo.com/ip3/blog.zulma.id.ico",
     "slug": "zulma-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "82.40%",
-    "uptimeWeek": "92.07%",
-    "uptimeMonth": "92.51%",
+    "uptimeDay": "82.36%",
+    "uptimeWeek": "92.72%",
+    "uptimeMonth": "92.55%",
     "uptimeYear": "99.36%",
     "time": 118,
-    "timeDay": 134,
-    "timeWeek": 129,
+    "timeDay": 131,
+    "timeWeek": 128,
     "timeMonth": 126,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-04-10": 88,
+      "2025-04-10": 89,
       "2025-04-09": 164,
       "2025-04-08": 152,
       "2025-04-07": 142,
@@ -157,7 +158,7 @@
       "2025-03-31": 676,
       "2025-03-30": 430,
       "2025-03-29": 618,
-      "2025-03-28": 265
+      "2025-03-28": 249
     }
   },
   {

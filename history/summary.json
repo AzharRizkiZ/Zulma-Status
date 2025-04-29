@@ -13,7 +13,7 @@
     "time": 131,
     "timeDay": 252,
     "timeWeek": 196,
-    "timeMonth": 154,
+    "timeMonth": 155,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2025-04-14": 1271,
@@ -44,7 +44,7 @@
     "uptime": "98.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.22%",
+    "uptimeMonth": "82.26%",
     "uptimeYear": "98.51%",
     "time": 140,
     "timeDay": 241,
@@ -152,12 +152,12 @@
     "uptime": "98.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.94%",
+    "uptimeMonth": "83.11%",
     "uptimeYear": "98.54%",
     "time": 118,
     "timeDay": 169,
     "timeWeek": 141,
-    "timeMonth": 133,
+    "timeMonth": 134,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2025-04-14": 1212,
@@ -187,9 +187,9 @@
     "slug": "al-jazari-personal-virtual-assistant",
     "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "82.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "82.91%",
     "uptimeYear": "98.58%",
     "time": 113,
     "timeDay": 129,
@@ -197,7 +197,6 @@
     "timeMonth": 117,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-04-28": 8,
       "2025-04-14": 1216,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -214,7 +213,7 @@
       "2025-04-01": 473,
       "2025-03-31": 541,
       "2025-03-30": 746,
-      "2025-03-29": 125
+      "2025-03-29": 154
     }
   }
 ]

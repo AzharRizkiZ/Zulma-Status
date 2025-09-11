@@ -13,6 +13,8 @@ sites:
     url: https://jp.zulma.id
   - name: Zulma Blog
     url: https://blog.zulma.id
+  - name: SAOIF Tools Helper
+    url: https://saoif.zulma.id
   - name: Al-Jazari Personal Virtual Assistant
     url: https://al-jazari.zulma.id
   #- name: IPv6 test

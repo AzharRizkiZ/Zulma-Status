@@ -5,12 +5,8 @@ repo: Zulma-Status # The name of this repository
 sites:
   - name: Zulma Landing Page
     url: https://zulma.id
-  - name: Zulma English
-    url: https://en.zulma.id
-  - name: Zulma Indonesia
-    url: https://id.zulma.id
-  - name: Zulma Japan
-    url: https://jp.zulma.id
+  - name: Zulma Profile
+    url: https://me.zulma.id
   - name: Zulma Blog
     url: https://blog.zulma.id
   - name: SAOIF Tools Helper
@@ -32,7 +28,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.zulma.id
   # baseUrl: /your-repo-name
-  logoUrl: https://id.zulma.id/assets/images/AZ.png
+  logoUrl: https://cloud.zulma.id/Assets/Logo/Zulma/AZ.png
   name: Zulma Website Status
   introTitle: "**Zulma Website** is Azhar Rizki Zulma personal website."
   introMessage: This is a status page which uses **real-time** data from our [Zulma Status](https://github.com/AzharRizkiZ/Zulma-Status). No server required — just GitHub Actions, Issues, and Pages.
@@ -43,7 +39,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Creator
       href: https://zulma.id
-  favicon: https://id.zulma.id/assets/images/favicon.ico
+  favicon: https://me.zulma.id/assets/images/icons/favicon.ico
   theme: light
 
 # Upptime also supports notifications, assigning issues, and more
